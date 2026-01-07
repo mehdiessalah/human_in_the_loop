@@ -28,7 +28,6 @@ This frontend provides an intuitive web interface for document upload, field ext
 
 ```bash
 git clone https://github.com/mehdiessalah/human_in_the_loop.git
-cd hitl-document-extraction/frontend
 ```
 
 ### 2. Install Dependencies
